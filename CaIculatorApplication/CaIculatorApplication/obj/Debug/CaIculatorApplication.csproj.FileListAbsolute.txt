@@ -1,0 +1,10 @@
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\bin\Debug\CaIculatorApplication.exe.config
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\bin\Debug\CaIculatorApplication.exe
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\bin\Debug\CaIculatorApplication.pdb
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.csproj.AssemblyReference.cache
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.CalculatorClass.resources
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.Properties.Resources.resources
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.csproj.GenerateResource.cache
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.exe
+C:\Users\Kambal\source\repos\CaIculatorApplication\CaIculatorApplication\obj\Debug\CaIculatorApplication.pdb
